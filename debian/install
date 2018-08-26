@@ -1,0 +1,3 @@
+.build/							usr/src/Kitbase
+terraform/scripts/install.sh	usr/src/Kitbase
+terraform/scripts/start.sh		usr/src/Kitbase
